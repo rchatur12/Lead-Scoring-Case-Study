@@ -53,9 +53,9 @@ Enhance sales team efficiency by focusing on quality leads.
 
 
  ##   Details of files given
-   - Lead_Scoring_final.ipynb : The python file showing coding and data analysis
-   - Lead Score Assignment Subjective Questions.pdf : Subjective questions answered
-   - Lead Score Case Study Presentation.pdf : Final Presentation
+   - Lead_score_notebook.ipynb : The python file showing coding and data analysis
+   - Assignment Subjective Questions.pdf : Subjective questions answered
+   - Lead_score_ppt.pdf : Final Presentation
    - Leads.csv : Data provided 
    - Leads Data Dictionary.xlsx : Data Dictionary
-   - Lead Score Case Study Summary.pdf : Summary on what's done in the entire py file
+   - Lead_Score_Summary_Report.pdf : Summary on what's done in the entire py file
